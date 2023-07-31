@@ -23,6 +23,7 @@ body {
     padding: 0px;
     background-color: var(--primary-backround-color);
     color: var(--primary-color);
+    font-size: 115%;
 }
 
 /**
@@ -124,7 +125,7 @@ th,td {
 }
 
 col.table-time {
-    width: 10%;
+    width: 8%;
 }
 
 col.table-name {
@@ -132,7 +133,19 @@ col.table-name {
 }
 
 col.table-title {
-    width: 80%;
+    width: 72%;
+}
+
+col.invited-speaker-table-name {
+    width: 20%;
+}
+
+col.invited-speaker-table-affiliation {
+    width: 15%;
+}
+
+col.invited-speaker-table-title {
+    width: 65%;
 }
 
 a:link {
