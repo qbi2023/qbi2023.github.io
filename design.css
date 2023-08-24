@@ -6,13 +6,13 @@
 
 :root {
     --primary-backround-color: #FFE;
-    --primary-color: #113;
+    --primary-color: #112;
     --primary-width: 1080px;
     --nav-border-color: #333;
     --heading-background-color: #BBE;
     --heading-border-color: #66A;
-    --link-color: #225;
-    --hover-color: #225;
+    --link-color: #228;
+    --hover-color: #228;
     --hover-background-color: #EEF;
 }
 
