@@ -11,6 +11,7 @@
     --nav-border-color: #333;
     --heading-background-color: #BBE;
     --heading-border-color: #66A;
+    --mark-background-color: #EEC;
     --link-color: #228;
     --hover-color: #228;
     --hover-background-color: #EEF;
@@ -110,6 +111,12 @@ h3 {
     padding: 0.2em 0.2em 0.2em 0.4em;
     font-family: sans-serif;
     font-size: 100%;
+}
+
+div.keynote {
+    margin: 1em 0em;
+    padding: 0.25em 1.25em;
+    background-color: var(--mark-background-color)
 }
 
 div.table-of-contents p {
