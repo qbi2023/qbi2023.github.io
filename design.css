@@ -146,6 +146,10 @@ col.table-title {
     width: 72%;
 }
 
+col.invited-speaker-table-date {
+    width: 20%;
+}
+
 col.invited-speaker-table-name {
     width: 20%;
 }
@@ -155,7 +159,7 @@ col.invited-speaker-table-affiliation {
 }
 
 col.invited-speaker-table-title {
-    width: 65%;
+    width: 45%;
 }
 
 a:link {
