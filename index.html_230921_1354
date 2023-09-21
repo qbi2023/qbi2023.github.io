@@ -136,6 +136,25 @@
 	<h2>Time table</h2>
 	<p>研究会は9/28 13:00開始、9/29 16:40ごろ終了の予定です。</p>
 	<p><a href="./program/program_v230921_1025.pdf">プログラム (9月21日版)</a></p>
+	      <table>
+          <colgroup>
+            <col class="table-time"><col class="table-name"><col class="table-title">
+          </colgroup>
+          <thead>
+            <tr>
+              <th>Time</th>
+              <th>Speaker</th>
+              <th>Title</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>__:__</td>
+              <td>_</td>
+              <td>_</td>
+            </tr>
+          </tbody>
+        </table>
       </section>
       <section id="section-registration">
 	      <h2>Registration</h2>
